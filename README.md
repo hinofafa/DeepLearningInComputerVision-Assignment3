@@ -26,6 +26,7 @@ Submitting your work:
 Whether you work on the assignment locally or in the labs, once you are done working run the Python code collectSubmission.py; this will produce a file called assignment3.7z. Upload this file under CASS. You can find CASS instruction of uploading your submission here.
 
 You can do Questions 3, 4, and 5 in TensorFlow or PyTorch. There are two versions of each notebook, with suffixes -TensorFlow or -PyTorch. No extra credit will be awarded if you do a question in both TensorFlow and PyTorch.
+
 Q1: Image Captioning with Vanilla RNNs (25 points)
 The Jupyter notebook RNN_Captioning.ipynb will walk you through the implementation of an image captioning system on MS-COCO using vanilla recurrent networks.
 
