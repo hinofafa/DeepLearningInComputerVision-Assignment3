@@ -3,6 +3,7 @@
 The course website: https://course.cse.ust.hk/comp4901j/
 
 Image Captioning, Network Visualization, Style Transfer, Generative Adversarial Networks
+
 In this assignment you will implement recurrent networks, and apply them to image captioning on Microsoft COCO. You will also explore methods for visualizing the features of a pretrained model on ImageNet, and also this model to implement Style Transfer. Finally, you will train a generative adversarial network to generate images that look like a training dataset!
 
 Note from CK: please complete only the Tensorflow notebook for HKUST version of the assignmenet because our WinPython package only supports Tensorflow.
